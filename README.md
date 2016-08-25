@@ -2,7 +2,7 @@
 
 Procedimiento de Costo de la llamada telefonica.
 
-** Contexto **
+**Contexto**
 
 Para este ejercicio se consideró ingresar los minutos por llamada y el costo por minuto.
 
